@@ -106,7 +106,7 @@ That wasn’t so hard, was it? You’ve successfully created a Discord Bot Token
 
 ## Config file
 After you clone go to the config.json file and insert your bot token. And if you want you can change prefix of bot.
-```yaml
+```json
 {
 	"token": "your token",
 	"prefix": "!"
